@@ -305,13 +305,13 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://83.142.30.171:8080/live/vip_level7/vip_level7/36.ts
+http://83.142.30.171:8080/live/vip_level7/vip_level7/36.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000001
-http://83.142.30.171:8080/live/vip_level7/vip_level7/36.ts
+http://83.142.30.171:8080/live/vip_level7/vip_level7/36.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000002
-http://83.142.30.171:8080/live/vip_level7/vip_level7/36.ts
+http://83.142.30.171:8080/live/vip_level7/vip_level7/36.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000003
-http://83.142.30.171:8080/live/vip_level7/vip_level7/36.ts
+http://83.142.30.171:8080/live/vip_level7/vip_level7/36.m3u8
 
 
 
