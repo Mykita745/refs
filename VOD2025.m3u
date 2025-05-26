@@ -1,4 +1,6 @@
-#EXTM3U
+#EXTM3U url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
+#EXTM3U x-url-tvg="https://anutv.xyz/epg/anutv.xml" refresh="3600"
+
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/hsJtBhMxNDGzW5KcQ9qz3EQGnEt.jpg" group-title="MOVIES VOD 2025", Air Force Elite: Thunderbirds (2025)
 https://e57.etvp.cc/uploads/6830eb9f21b2d.mp4
 
