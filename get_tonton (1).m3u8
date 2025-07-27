@@ -1,0 +1,20 @@
+#EXTM3U
+## Generated with https://github.com/google/shaka-packager version v2.6.0-5181ea1-release
+
+#EXT-X-INDEPENDENT-SEGMENTS
+
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/audio/playlist.m3u8",GROUP-ID="audio",NAME="audio",AUTOSELECT=YES,CHANNELS="2"
+
+
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/captions_ms/playlist.m3u8",GROUP-ID="text",LANGUAGE="ms",NAME="Bahasa Melayu [CC]",AUTOSELECT=YES
+#EXT-X-MEDIA:TYPE=SUBTITLES,URI="https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/captions_en/playlist.m3u8",GROUP-ID="text",LANGUAGE="en",NAME="English [CC]",AUTOSELECT=YES
+#EXT-X-STREAM-INF:BANDWIDTH=1203789,AVERAGE-BANDWIDTH=1092307,CODECS="avc1.42c01e,mp4a.40.5",RESOLUTION=853x480,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="audio",CLOSED-CAPTIONS=NONE,,SUBTITLES="text"
+https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/H264_480P/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=679387,AVERAGE-BANDWIDTH=612118,CODECS="avc1.42c01e,mp4a.40.5",RESOLUTION=640x360,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="audio",CLOSED-CAPTIONS=NONE,,SUBTITLES="text"
+https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/H264_360P/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2055170,AVERAGE-BANDWIDTH=1930888,CODECS="avc1.42c01f,mp4a.40.5",RESOLUTION=1024x576,FRAME-RATE=25.000,VIDEO-RANGE=SDR,AUDIO="audio",CLOSED-CAPTIONS=NONE,,SUBTITLES="text"
+https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/H264_576P/playlist.m3u8
+
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=99376,AVERAGE-BANDWIDTH=45107,CODECS="avc1.42c01e",RESOLUTION=853x480,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,URI="https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/H264_480P/iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=57246,AVERAGE-BANDWIDTH=26576,CODECS="avc1.42c01e",RESOLUTION=640x360,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,URI="https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/H264_360P/iframe.m3u8"
+#EXT-X-I-FRAME-STREAM-INF:BANDWIDTH=150543,AVERAGE-BANDWIDTH=72285,CODECS="avc1.42c01f",RESOLUTION=1024x576,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE,URI="https://get.perfecttv.net/tontonsegmentm3u8.php?url=https://vod.tonton.com.my/1753631881/0xe585c173b8cbfbcb535205c568877f51e9394c4f243d0d64ff257fdd1e5ffc6d/vod/379/6544732/H264_576P/iframe.m3u8"
